@@ -1,6 +1,6 @@
 # Efficient 3D Recognition with Event-driven Spike Sparse Convolution
 
-[Xuerui Qiu](https://scholar.google.com/citations?user=bMwW4e8AAAAJ&hl=zh-CN), [Man Yao*](https://scholar.google.com/citations?user=eE4vvp0AAAAJ),[Jieyuan Zhang](https://scholar.google.com/citations?user=c8Qww6YAAAAJ&hl=zh-CN&oi=sra), [Yuhong Chou](https://scholar.google.com/citations?user=8CpWM4cAAAAJ&hl=zh-CN&oi=ao), [Ning Qiao](), [Shibo Zhou](), [Bo Xu](), [Guoqi Li](https://scholar.google.com/citations?user=qCfE--MAAAAJ&)
+[Xuerui Qiu](https://scholar.google.com/citations?user=bMwW4e8AAAAJ&hl=zh-CN), [Man Yao*(https://scholar.google.com/citations?user=eE4vvp0AAAAJ), [Jieyuan Zhang](https://scholar.google.com/citations?user=c8Qww6YAAAAJ&hl=zh-CN&oi=sra), [Yuhong Chou](https://scholar.google.com/citations?user=8CpWM4cAAAAJ&hl=zh-CN&oi=ao), [Ning Qiao](), [Shibo Zhou](), [Bo Xu](), [Guoqi Li](https://scholar.google.com/citations?user=qCfE--MAAAAJ&)
 
 Institute of Automation, Chinese Academy of Sciences
 
