@@ -1,14 +1,14 @@
 # Efficient 3D Recognition with Event-driven Spike Sparse Convolution
 
-[Xuerui Qiu](https://scholar.google.com/citations?user=bMwW4e8AAAAJ&hl=zh-CN), [Man Yao*(https://scholar.google.com/citations?user=eE4vvp0AAAAJ), [Jieyuan Zhang](https://scholar.google.com/citations?user=c8Qww6YAAAAJ&hl=zh-CN&oi=sra), [Yuhong Chou](https://scholar.google.com/citations?user=8CpWM4cAAAAJ&hl=zh-CN&oi=ao), [Ning Qiao](), [Shibo Zhou](), [Bo Xu](), [Guoqi Li](https://scholar.google.com/citations?user=qCfE--MAAAAJ&)
+[Xuerui Qiu](https://scholar.google.com/citations?user=bMwW4e8AAAAJ&hl=zh-CN), [Man Yao](https://scholar.google.com/citations?user=eE4vvp0AAAAJ), [Jieyuan Zhang](https://scholar.google.com/citations?user=c8Qww6YAAAAJ&hl=zh-CN&oi=sra), [Yuhong Chou](https://scholar.google.com/citations?user=8CpWM4cAAAAJ&hl=zh-CN&oi=ao), [Ning Qiao](), [Shibo Zhou](), [Bo Xu](), [Guoqi Li](https://scholar.google.com/citations?user=qCfE--MAAAAJ&)
 
 Institute of Automation, Chinese Academy of Sciences
 
 This repo is the official implementation of [ Efficient 3D Recognition with Event-driven Spike Sparse Convolution](https://arxiv.org/abs/2412.07360). It currently concludes codes and models for the following tasks:
 
-> **3D Classification**: See [Classification.md](E-3DSNN/classify_seg/readme.md).\
+> **3D Classification**: See [Classification.md](E-3DSNN/classify-seg/readme.md).\
 > **3D Object Detection**: See [Detection.md](SDT_V3/Detection/Readme.md).\
-> **3D Semantic Segmentation**: See [Segementation.md](E-3DSNN/classify_seg/readme.md).
+> **3D Semantic Segmentation**: See [Segementation.md](E-3DSNN/classify-seg/readme.md).
 
 
 :rocket:  :rocket:  :rocket: **News**:
