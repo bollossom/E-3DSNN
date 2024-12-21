@@ -8,7 +8,7 @@ This repo is the official implementation of [ Efficient 3D Recognition with Even
 
 > **3D Classification**: See [Classification.md](E-3DSNN/classify_seg/readme.md).\
 > **3D Object Detection**: See [Detection.md](SDT_V3/Detection/Readme.md).\
-> **3D Semantic Segmentation**: See [Segementation.md](E-3DSNN/classify_seg/readme.md).\
+> **3D Semantic Segmentation**: See [Segementation.md](E-3DSNN/classify_seg/readme.md).
 
 
 :rocket:  :rocket:  :rocket: **News**:
