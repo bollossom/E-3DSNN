@@ -36,7 +36,7 @@ Spiking Neural Networks (SNNs) provide an energy-efficient way to extract 3D spa
 
 For help or issues using this git, please submit a GitHub issue.
 
-For other communications related to this git, please contact `qiuxuerui2024@ia.ac.cn`.
+For other communications related to this git, please contact `qiuxuerui2024@ia.ac.cn` or `jiyuanzhang@std.uestc.edu.cn`.
 
 ## Acknowledgement
-Our project are based on [Pointcept](https://github.com/Pointcept/Pointcept) and [Openpcdet](https://github.com/open-mmlab/OpenPCDet). Thanks for their wonderful work.
+Our project is based on [Pointcept](https://github.com/Pointcept/Pointcept) and [Openpcdet](https://github.com/open-mmlab/OpenPCDet). Thanks for their wonderful work.
