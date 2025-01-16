@@ -33,6 +33,7 @@ pip install ftfy regex tqdm
 pip install git+https://github.com/openai/CLIP.git
 
 # PTv1 & PTv2 or precise eval
+for libs please download this https://github.com/Pointcept/Pointcept/tree/main/libs
 cd libs/pointops
 # usual
 python setup.py install
