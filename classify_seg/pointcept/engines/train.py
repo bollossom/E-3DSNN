@@ -62,7 +62,7 @@ class TrainerBase:
             # => before train
             self.before_train()
             print(self.max_epoch)
-            exit(0)
+            # exit(0)
             for self.epoch in range(self.start_epoch, self.max_epoch):
                 # => before epoch
                 self.before_epoch()
@@ -260,12 +260,12 @@ class Trainer(TrainerBase):
             drop_last=True,
             persistent_workers=True,
         )
-        for idx,batch in enumerate(train_loader):
-            print(batch["coord"].shape)
-            print(batch["feat"].shape)
+        # for idx,batch in enumerate(train_loader):
+        #     print(batch["coord"].shape)
+        #     print(batch["feat"].shape)
 
-            print(batch["offset"].shape)
-            exit(0)
+        #     print(batch["offset"].shape)
+        #     # exit(0)
         return train_loader
 
     def build_val_loader(self):
