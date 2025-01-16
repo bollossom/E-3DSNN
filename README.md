@@ -8,7 +8,8 @@ This repo is the official implementation of [ Efficient 3D Recognition with Even
 
 > **3D Classification**: See [Classification.md](/classify_seg/readme.md).\
 > **3D Object Detection**: See [Detection.md](SDT_V3/Detection/Readme.md).\
-> **3D Semantic Segmentation**: See [Segementation.md](/classify_seg/readme.md).
+> **3D Semantic Segmentation**: See [Segementation.md](/classify_seg/readme.md). \
+> **Result_Visualizations**:  See [Visualizations.md](/Result_Visualizations/README.md).
 
 
 :rocket:  :rocket:  :rocket: **News**:
@@ -35,7 +36,7 @@ Spiking Neural Networks (SNNs) provide an energy-efficient way to extract 3D spa
 
 For help or issues using this git, please submit a GitHub issue.
 
-For other communications related to this git, please contact `qiuxuerui2024@ia.ac.cn`.
+For other communications related to this git, please contact `qiuxuerui2024@ia.ac.cn` or `jiyuanzhang@std.uestc.edu.cn`.
 
 ## Acknowledgement
-Our project are based on [Pointcept](https://github.com/Pointcept/Pointcept) and [Openpcdet](https://github.com/open-mmlab/OpenPCDet). Thanks for their wonderful work.
+Our project is based on [Pointcept](https://github.com/Pointcept/Pointcept) and [Openpcdet](https://github.com/open-mmlab/OpenPCDet). Thanks for their wonderful work.
