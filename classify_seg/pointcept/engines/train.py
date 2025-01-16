@@ -62,7 +62,7 @@ class TrainerBase:
             # => before train
             self.before_train()
             print(self.max_epoch)
-            exit(0)
+            # exit(0)
             for self.epoch in range(self.start_epoch, self.max_epoch):
                 # => before epoch
                 self.before_epoch()
