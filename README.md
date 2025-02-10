@@ -7,7 +7,7 @@ Institute of Automation, Chinese Academy of Sciences
 This repo is the official implementation of [ Efficient 3D Recognition with Event-driven Spike Sparse Convolution](https://arxiv.org/abs/2412.07360). It currently concludes codes and models for the following tasks:
 
 > **3D Classification**: See [Classification.md](/classify_seg/readme.md).\
-> **3D Object Detection**: See [Detection.md](SDT_V3/det/Readme.md).\
+> **3D Object Detection**: See [Detection.md](/det/Readme.md).\
 > **3D Semantic Segmentation**: See [Segementation.md](/classify_seg/readme.md). \
 > **Result_Visualizations**:  See [Visualizations.md](/Result_Visualizations/README.md).
 
