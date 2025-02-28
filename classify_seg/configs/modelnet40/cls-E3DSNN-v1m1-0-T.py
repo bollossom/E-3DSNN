@@ -1,5 +1,3 @@
-
-tester
 test = dict(type="ClsTester")
 _base_ = ["../_base_/default_runtime.py"]
 # misc custom setting
