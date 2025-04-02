@@ -262,7 +262,7 @@ class SNN_3dv(nn.Module):
             cur_flops = 2 * (pair_fwd > -1).sum() * inchannel * outchannel - pair_fwd.shape[1]
             return cur_flops
 
-        total_flops = 0  # 初始化 FLOPs
+        total_flops = 0  # FLOPs
 
         discrete_coord = input_dict["grid_coord"]
         feat = input_dict["feat"]
@@ -280,7 +280,7 @@ class SNN_3dv(nn.Module):
             batch_size=batch[-1].tolist() + 1,
         )
 
-        # stem ，3 SubMConv3d + spike
+        # stem3 SubMConv3d + spike
         x = self.stem(x)
         for _ in range(3):
             total_flops += calculate_gemm_flops(x, 'stem', self.embed_channels, self.embed_channels)
