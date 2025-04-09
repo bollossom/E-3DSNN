@@ -13,7 +13,7 @@ This repo is the official implementation of [ Efficient 3D Recognition with Even
 
 
 :rocket:  :rocket:  :rocket: **News**:
-
+- **Apr. 09, 2025**: Checkpoint is available at [Huggingface](https://huggingface.co/Xuerui123/E-3DSNN).
 - **Apr. 05, 2025**: Power consumption calculations code can be obtained [Here](energy_calculate.py)
 - **Dec. 19, 2024**: Release the code for training and testing.
 
